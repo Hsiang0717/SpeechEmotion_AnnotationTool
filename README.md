@@ -1,7 +1,7 @@
 # Emotions_Utterance_AnnotationTool
 
 A web tool for annotate utterance for emotion recognition
-<img src="img/tool.png" width="400">
+
 ### Feature
 - [x] base php server
 - [x] users recorder
@@ -9,6 +9,8 @@ A web tool for annotate utterance for emotion recognition
 - [x] support annoate audio
 - [x] support annoate text
 - [ ] back end gui
+
+<img src="img/tool.png" width="400">
 
 ### How to use
 
