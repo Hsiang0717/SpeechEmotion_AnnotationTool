@@ -30,11 +30,11 @@ A web tool for annotate utterance for emotion recognition
 ```json
 {"Data"}:[
 {"Status":"text","Remarks":"","EpisodeID","1","Scope":[{"Sentiment":"1","SentenceID":"A1"},{"Sentiment":"0","SentenceID":"A2"},
-{"Sentiment":"5","SentenceID":"A3"]},
+{"Sentiment":"5","SentenceID":"A3"}],
 {"Status":"audio","Remarks":"","EpisodeID","2","Scope":[{"Sentiment":"3","SentenceID":"B1"},{"Sentiment":"6","SentenceID":"B2"},
-{"Sentiment":"4","SentenceID":"B3"]},
+{"Sentiment":"4","SentenceID":"B3"}],
 {"Status":"text","Remarks":"","EpisodeID","3","Scope":[{"Sentiment":"2","SentenceID":"C1"},{"Sentiment":"1","SentenceID":"C2"},
-{"Sentiment":"3","SentenceID":"C3"]}]
+{"Sentiment":"3","SentenceID":"C3"}]]
 ```
 
 - information
