@@ -34,7 +34,7 @@ A web tool for annotate utterance for emotion recognition
 {"Status":"audio","Remarks":"","EpisodeID","2","Scope":[{"Sentiment":"3","SentenceID":"B1"},{"Sentiment":"6","SentenceID":"B2"},
 {"Sentiment":"4","SentenceID":"B3"}],
 {"Status":"text","Remarks":"","EpisodeID","3","Scope":[{"Sentiment":"2","SentenceID":"C1"},{"Sentiment":"1","SentenceID":"C2"},
-{"Sentiment":"3","SentenceID":"C3"}]]
+{"Sentiment":"3","SentenceID":"C3"}]
 ```
 
 - information
